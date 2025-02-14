@@ -1,4 +1,4 @@
-#  👋 Hey there, I'm Zainab Rehman!
+#  👋 Hello World, I'm Zainab Rehman!
 
 ## Current Mission:
 Surviving third year of computer engineering while building cool projects and pretending I know what I'm doing. (Spoiler: I mostly do.)
