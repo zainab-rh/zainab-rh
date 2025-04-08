@@ -13,7 +13,6 @@ Surviving third year of computer engineering while building projects and pretend
 
 🔹 DevOps – CI/CD, automation, & container orchestration
 
-🔹 Data & AI – Machine learning, data engineering, & data science.
 
 
 
