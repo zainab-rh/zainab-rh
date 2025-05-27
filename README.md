@@ -7,11 +7,11 @@ Surviving third year of computer engineering while building projects and pretend
 
 ## 📌 Interests & Focus Areas:
 
-🔹 **Cybersecurity** – Blue Team operations, Incident Response, Threat Detection & Cloud Security  
+🔹 **Cybersecurity**  – Blue Team operations, Incident Response, Threat Detection & Cloud Security  
 
-🔹 **Cloud Computing** – AWS, Azure & Multi-Cloud Architectures  
+🔹 **Cloud Computing**  – AWS, Azure & Multi-Cloud Architectures  
 
-🔹 **DevOps** – CI/CD Pipelines, Infrastructure Automation & Container Orchestration
+🔹 **DevOps**  – CI/CD Pipelines, Infrastructure Automation & Container Orchestration
 
 
 
