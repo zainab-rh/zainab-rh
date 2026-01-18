@@ -24,7 +24,6 @@ Currently focusing on Cybersecurity, Distributed Systems, and Machine Learning. 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/snort/snort-icon.svg" alt="Snort" width="40" height="40"/>
 </p>
----
 
 ### GitHub Activity
 <p align="center">
