@@ -3,7 +3,7 @@
 
 **Senior Computer Engineering Student @ UPV** *ARA Honors Program (Selective English-Language Track)*
 
-Currently focusing on Cybersecurity, Distributed Systems, and Machine Learning. I enjoy building automated solutions and exploring how different parts of a system integrate to solve real-world problems.---
+Currently focusing on Cybersecurity, Distributed Systems, and Machine Learning. I enjoy building automated solutions and exploring how different parts of a system integrate to solve real-world problems.
 
 
 ### 🛠️ Languages & Technologies
@@ -22,9 +22,7 @@ Currently focusing on Cybersecurity, Distributed Systems, and Machine Learning. 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" alt="RabbitMQ" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" alt="Wireshark" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/snort/snort-icon.svg" alt="Snort" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/zeek/zeek-icon.svg" alt="Zeek" width="40" height="40"/>
 </p>
 ---
 
