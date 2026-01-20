@@ -29,6 +29,7 @@ I am developing my skills in designing automated architectures and ensuring that
 
 ## 📬 Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zainab-rehman-b469ba293) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:zainabrehman466@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/zainab-rehman-b469ba293) [![Gmail](https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:zainabrehman466@gmail.com)
+
 
 
