@@ -3,8 +3,8 @@
 
 **Senior Computer Engineering Student @ UPV** *ARA Honors Program (Selective English-Language Track)*
 
-Currently focusing on Cybersecurity, Distributed Systems, and Machine Learning. I enjoy building automated solutions and exploring how different parts of a system integrate to solve real-world problems.
-
+Currently focusing on Cybersecurity, Distributed Systems, and Machine Learning.
+I am developing my skills in designing automated architectures and ensuring that complex systems connect and scale securely.
 
 ### 🛠️ Languages & Technologies
 
